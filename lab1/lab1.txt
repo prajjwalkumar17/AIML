@@ -1,3 +1,6 @@
+
+
+lablabstart
 def aStarAlgo(start_node, stop_node):
     
 
@@ -111,3 +114,5 @@ Graph_nodes = {
 
 }
 aStarAlgo('A', 'J')
+
+lablabend
