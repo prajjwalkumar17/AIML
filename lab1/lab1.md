@@ -21,6 +21,7 @@ f(n) = g(n) + h(n)
 
 
 ```python
+#lablabstart
 def aStarAlgo(start_node, stop_node):
     
 
@@ -134,6 +135,7 @@ Graph_nodes = {
 
 }
 aStarAlgo('A', 'J')
+#lablabend
 ```
 
     Path found: ['A', 'F', 'G', 'I', 'J']
