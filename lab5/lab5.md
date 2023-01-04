@@ -62,7 +62,7 @@ for i in range(epoch):
 print("Input: \n" + str(X))
 print("Actual Output: \n" + str(y))
 print("Predicted Output: \n" ,output)
-#lablabstart
+#lablabend
 ```
 
     Input: 
