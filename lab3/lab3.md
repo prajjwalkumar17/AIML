@@ -5,6 +5,7 @@
 
 
 ```python
+#lablabstart
 import csv
 
 with open("trainingexamples.csv") as f:
@@ -40,6 +41,7 @@ with open("trainingexamples.csv") as f:
                 break
     print("\nFinal Specific hypothesis:\n", specific)
     print("\nFinal General hypothesis:\n", gh)
+    #lablabend
 ```
 
     
