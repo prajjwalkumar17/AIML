@@ -2,6 +2,7 @@
 
 
 ```python
+#lablabstart
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -27,6 +28,7 @@ draw(10)
 draw(0.1)
 draw(0.01)
 draw(0.001)
+#lablabend
 ```
 
 
