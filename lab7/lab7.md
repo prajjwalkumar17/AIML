@@ -2,6 +2,7 @@
 
 
 ```python
+#lablabstart
 import matplotlib.pyplot as plt 
 from sklearn import datasets 
 from sklearn.cluster import KMeans 
@@ -55,6 +56,7 @@ plt.xlabel('Petal Length')
 plt.ylabel('Petal Width')
 
 print('Observation: The GMM using EM algorithm based clustering matched the true labels more closely than the Kmeans.')
+#lablabend
 ```
 
     Observation: The GMM using EM algorithm based clustering matched the true labels more closely than the Kmeans.
