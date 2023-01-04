@@ -24,6 +24,7 @@ f(n) = g(n) + h(n)
 
 
 ```python
+#lablabstart
 class Graph:
     def __init__(self, graph, heuristicNodeList, startNode): #instantiate graph object with graph topology, heuristic values, start node
 
@@ -141,6 +142,7 @@ graph2 = { # Graph of Nodes and Edges
 G2 = Graph(graph2, h2, 'A') # Instantiate Graph object with graph, heuristic values and start Node
 G2.applyAOStar() # Run the AO* algorithm
 G2.printSolution() # print the solution graph as AO* Algorithm search
+#lablabend
 ```
 
     HEURISTIC VALUES : {'A': 1, 'B': 6, 'C': 2, 'D': 12, 'E': 2, 'F': 1, 'G': 5, 'H': 7, 'I': 7, 'J': 1, 'T': 3}
