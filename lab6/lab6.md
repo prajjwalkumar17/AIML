@@ -4,6 +4,7 @@
 
 
 ```python
+#lablabstart
 # import necessary libraries
 import pandas as pd
 from sklearn import tree
@@ -48,5 +49,6 @@ classifier.fit(X_train, y_train)
 
 from sklearn.metrics import accuracy_score
 print("Accuracy is:", accuracy_score(classifier.predict(X_test), y_test))
+#lablabend
 
     
